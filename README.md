@@ -1,3 +1,17 @@
+Bilkul! Yahan Roman Urdu mein 10 lines mein simple explain kar deta hoon ke yeh SSH keys wali commands mein kya ho raha hai 👇
+
+1️⃣ GitBash ke andar ssh-agent ko start karte hain taake keys memory mein load ho saken.
+2️⃣ Hum nayi SSH key generate karte hain — yeh GitHub pe login/operations ke liye hoti hai.
+3️⃣ Ek separate SSH key commit signing ke liye banti hai taa ke GitHub verify kar sake ke commit sach mein aapka hai.
+4️⃣ Dono keys ke alag naam rakhe jaate hain (auth & signing).
+5️⃣ Keys generate karne ke waqt email add hoti hai taa ke GitHub pe identity link ho.
+6️⃣ ssh-add command keys ko ssh-agent ke andar load kar deti hai.
+7️⃣ Phir Git push karte waqt password poochne ki zaroorat nahi rehti.
+8️⃣ Signing key ka kaam hai commit par verified badge lagwana.
+9️⃣ Commands chalane ke baad GitHub settings mein Public Key copy/paste karni hoti hai.
+🔟 ssh-add -l se check hota hai ke agent ke andar kaunsi keys loaded hain.
+sssssshhhhhhhhh keys above
+
 ![Image 1](add1.PNG)
 
 

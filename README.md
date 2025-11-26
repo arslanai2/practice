@@ -12,7 +12,7 @@ Bilkul! Yahan Roman Urdu mein 10 lines mein simple explain kar deta hoon ke yeh 
 🔟 ssh-add -l se check hota hai ke agent ke andar kaunsi keys loaded hain.
 sssssshhhhhhhhh keys above
 
-![Image 1](clean.PNG)
+![clean](clean.PNG)
 
 
 main ab tamam flow ko bilkul aasaan Roman-Urdu mei step-by-step samjha deta hoon, aur saath hi insert / delete / update / getAll sab functions ka full flow bhi clear karaonga.
